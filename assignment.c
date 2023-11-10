@@ -50,6 +50,6 @@ main()
 	int h = 10; 
 	int d = 5; 
 	int t = 8;
-	int TS = s+(100*10/100)+(100*5/100)+(100*8/100);
-	printf("\n\n\n ANS = %d", ts);
+	int GS = s+(s*10/100)+(s*5/100)+(s*8/100);
+	printf("\n\n\n ANS = %d", GS);
 }
